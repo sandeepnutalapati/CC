@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CC</string>
+    <string name="load_4">Load 4</string>
+    <string name="load_3">Load 3</string>
+    <string name="load_2">Load 2</string>
+    <string name="load_1">Load 1</string>
+    <string name="enter_address">Enter address:</string>
+    <string name="loading">loading....</string>
+    <string name="address">ADDRESS</string>
+    <string name="go_back">go back</string>
+</resources>
